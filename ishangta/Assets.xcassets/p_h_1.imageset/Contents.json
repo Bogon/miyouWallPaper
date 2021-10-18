@@ -1,0 +1,15 @@
+{
+  "images" : [
+    {
+      "filename" : "p_h_1.pdf",
+      "idiom" : "universal"
+    }
+  ],
+  "info" : {
+    "author" : "xcode",
+    "version" : 1
+  },
+  "properties" : {
+    "preserves-vector-representation" : true
+  }
+}
